@@ -22,8 +22,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: V.Sanjay
+### Register Number: 23012749
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
